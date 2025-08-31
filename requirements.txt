@@ -4,6 +4,7 @@ numpy>=1.23
 pandas>=1.5
 matplotlib>=3.7
 pillow>=10.0
+pymupdf
 
 # Mapping
 pydeck>=0.8   # only if you're keeping the map pages
